@@ -6,7 +6,4 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 - 🔭 I’m currently a C# student at Software Unversity.
 - 📚 I’m currently learning  backend web development.
-- 📫 How to reach me: [Linkedin]([https://www.linkedin.com/in/hazemessamsaleh](https://www.linkedin.com/in/kristian-yovchev-18439623b/)) [Gmail](mailto:krisyovchev@yahoo.com)
-
-⭐️ From [hazemessam](https://github.com/hazemessam)
-Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kristian-yovchev-18439623b) [Gmail](mailto:krisyovchev@yahoo.com)
