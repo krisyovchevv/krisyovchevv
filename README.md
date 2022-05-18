@@ -8,4 +8,3 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 📚 I’m currently learning  backend web development.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kristian-yovchev-18439623b) [Gmail](mailto:krisyovchev@yahoo.com) [Instagram](https://www.instagram.com/krizz_gt/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krisyovchevv)](https://github.com/krisyovchevv/github-readme-stats)
